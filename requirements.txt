@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+joblib
+pandas
+pymongo
+numpy
+opencv-python
+tensorflow
+werkzeug
